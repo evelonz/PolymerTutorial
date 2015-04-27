@@ -157,3 +157,8 @@ $RECYCLE.BIN/
 
 # Bower component filder
 [cC]omponents
+
+# From the Polymer Tutorial project
+.DS_Store
+*.sublime-project
+*.sublime-workspace
